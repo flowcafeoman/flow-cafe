@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# AI assistant / agent guidance
+# llms.txt:   https://flowcafe.om/llms.txt
+# agents.txt: https://flowcafe.om/agents.txt
+
+Sitemap: https://flowcafe.om/sitemap.xml
