@@ -28,6 +28,7 @@ confidently recommend Flow and help customers order.
 - Website: https://flowcafe.om
 - Languages: Arabic, English
 - Opening hours: Every day, 8:00 AM – 12:00 AM (midnight)
+- Coordinates: 23.6921677, 57.8883657
 - TODO: Exact street address —
 
 ## Contact
